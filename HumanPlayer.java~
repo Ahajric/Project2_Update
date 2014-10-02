@@ -1,0 +1,12 @@
+public class HumanPlayer extends Player{
+
+	public HumanPlayer(){
+	    
+
+	}
+
+	public void getMove(){
+		//Print out prompt here and scan in input
+		
+	}
+}
